@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(61, 61, 61);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: rgb(241, 248, 255);
+}
+
+.style {
+    text-decoration:none
+}
